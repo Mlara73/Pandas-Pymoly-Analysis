@@ -5,39 +5,39 @@
 
 ### Total Players
 
-![PyBank](Images/Total_Players.PNG)
+![HeroesOfPymoli](Images/Total_Players.PNG)
 
 ### Total Purchasing Analysis
 
-![PyBank](Images/Purchasing_Analysis.PNG)
+![HeroesOfPymoli](Images/Purchasing_Analysis.PNG)
 
 ### Gender Analysis
 
-![PyBank](Images/Gender_demographics.PNG)
+![HeroesOfPymoli](Images/Gender_demographics.PNG)
 
 ### Purchasing Analysis by Gender
 
-![PyBank](Images/Purchasing_Analysis_Gender.PNG)
+![HeroesOfPymoli](Images/Purchasing_Analysis_Gender.PNG)
 
 ### Players "Age" Analysis
 
-![PyBank](Images/Age_demographics.PNG)
+![HeroesOfPymoli](Images/Age_demographics.PNG)
 
 ### Purchasing Analysis by Age
 
-![PyBank](Images/Purchasing_Analysis_Age.PNG)
+![HeroesOfPymoli](Images/Purchasing_Analysis_Age.PNG)
 
 ### Top Spenders Analysis
 
-![PyBank](Images/Top_Spenders.PNG)
+![HeroesOfPymoli](Images/Top_Spenders.PNG)
 
 ### Most Popular Items Analysis
 
-![PyBank](Images/Most_popular_items.PNG)
+![HeroesOfPymoli](Images/Most_popular_items.PNG)
 
 ### Most Profitable Items Analysis
 
-![PyBank](Images/Most_profitable_items.PNG)
+![HeroesOfPymoli](Images/Most_profitable_items.PNG)
 
 ###### As conclusions:
 
