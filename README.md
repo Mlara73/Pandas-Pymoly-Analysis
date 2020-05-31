@@ -37,7 +37,7 @@
 
 ### Most Profitable Items Analysis
 
-![HeroesOfPymoli](Images/Most_profitable_items.PNG)
+![HeroesOfPymoli](Images/most_profitable_items.PNG)
 
 ###### As conclusions:
 
